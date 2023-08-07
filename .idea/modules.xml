@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lista-exercicios-02.iml" filepath="$PROJECT_DIR$/.idea/Lista-exercicios-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao-01/questao-01.iml" filepath="$PROJECT_DIR$/questao-01/questao-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao-02/questao-02.iml" filepath="$PROJECT_DIR$/questao-02/questao-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao-03/questao-03.iml" filepath="$PROJECT_DIR$/questao-03/questao-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao-04/questao-04.iml" filepath="$PROJECT_DIR$/questao-04/questao-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao-05/questao-05.iml" filepath="$PROJECT_DIR$/questao-05/questao-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao-06/questao-06.iml" filepath="$PROJECT_DIR$/questao-06/questao-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao-07/questao-07.iml" filepath="$PROJECT_DIR$/questao-07/questao-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao-08/questao-08.iml" filepath="$PROJECT_DIR$/questao-08/questao-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao-09/questao-09.iml" filepath="$PROJECT_DIR$/questao-09/questao-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao-10/questao-10.iml" filepath="$PROJECT_DIR$/questao-10/questao-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao-11/questao-11.iml" filepath="$PROJECT_DIR$/questao-11/questao-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao-12/questao-12.iml" filepath="$PROJECT_DIR$/questao-12/questao-12.iml" />
+    </modules>
+  </component>
+</project>
